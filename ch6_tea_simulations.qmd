@@ -5,7 +5,7 @@ editor: visual
 ---
 
 ## Tips before getting started
-
+TEST
 This is a document made to accompany some simulations from the Inference lecture in Psych 201a. The goal of this document is to continue learning in R/tidyverse but also to gain hands on experience simulating and manipulating data.\
 \
 If you need to install something, you can run `install.packages('tidyverse')`, where you substitute the name of the library
